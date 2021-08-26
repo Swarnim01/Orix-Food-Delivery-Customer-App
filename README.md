@@ -1,4 +1,4 @@
-# Orix | A Food Delivery Conusmer App
+# Orix | A Food Delivery Consumer App
 
 ## Orix
 
